@@ -31,3 +31,4 @@ HAVING AVG(salary) > 75000
 # we take occupations with words manager in them
 # group them by occupation
 # here we can take it further by seeing average of more than x amount
+# HAVING only works for aggregated fx after GROUP BY
