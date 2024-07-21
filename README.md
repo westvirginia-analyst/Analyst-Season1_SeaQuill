@@ -1,2 +1,2 @@
-# SQL
+# SeaQuill
 SQL lessons and projects
